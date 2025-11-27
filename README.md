@@ -6,3 +6,4 @@
 
 ## 분류
 ### Computer Science
+- 01_컴퓨터 구조
